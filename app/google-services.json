@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "13814975278",
+    "firebase_url": "https://phinconproject-default-rtdb.firebaseio.com/",
+    "project_id": "phinconproject",
+    "storage_bucket": "phinconproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13814975278:android:fcda989084f574a080c8bf",
+        "android_client_info": {
+          "package_name": "com.example.phinconproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhMWViBHuMXLUV_XiGF2yxHzPCDUCNwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
